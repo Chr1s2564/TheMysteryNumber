@@ -1,4 +1,4 @@
-# The Mystery Number
+
 ![Terminal screenshot](logo.png)
 ## Description
 The Mystery Number is a game in which you have to guess a number between 1 and 100.
